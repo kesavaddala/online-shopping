@@ -1,0 +1,54 @@
+[
+  {
+    "id": 1,
+    "Title": "Keep Shopping",
+    "itemDetails": {
+      "product_link": "/printer",
+      "product_image": "https://rukminim1.flixcart.com/image/150/150/printer/j/j/y/hp-laserjet-m1005-multifunction-original-imadxhzpeb9qbrfg.jpeg?q=70",
+      "product_chair": "amazonChair.jpg",
+      "product_name": "printer",
+      "product_price": 8000,
+      "product_projector": "projector",
+      "product_bigImage": "Washingmachinetop"
+    }
+  },
+  {
+    "id": 2,
+    "Title": "Keep Shopping",
+    "itemDetails": {
+      "product_link": "/laptop",
+      "product_image": "https://rukminim1.flixcart.com/image/150/150/kyag87k0/computer/7/r/u/raider-ge66-12ugs-gaming-laptop-msi-original-imagakb9zw7gqzcm.jpeg?q=70",
+      "product_chair": "amazonChair.jpg",
+      "product_name": "laptop",
+      "product_price": 50000,
+      "product_projector": "projector",
+      "product_bigImage": "Washingmachineback"
+    }
+  },
+  {
+    "id": 3,
+    "Title": "Keep Shopping",
+    "itemDetails": {
+      "product_link": "/printer",
+      "product_image": "https://rukminim1.flixcart.com/image/150/150/printer/j/j/y/hp-laserjet-m1005-multifunction-original-imadxhzpeb9qbrfg.jpeg?q=70",
+      "product_chair": "amazonChair.jpg",
+      "product_name": "printer",
+      "product_price": 8000,
+      "product_projector": "projector",
+      "product_bigImage": "Washingmachinetop"
+    }
+  },
+  {
+    "id": 4,
+    "Title": "Keep Shopping",
+    "itemDetails": {
+      "product_link": "/laptop",
+      "product_image": "https://rukminim1.flixcart.com/image/150/150/kyag87k0/computer/7/r/u/raider-ge66-12ugs-gaming-laptop-msi-original-imagakb9zw7gqzcm.jpeg?q=70",
+      "product_chair": "amazonChair.jpg",
+      "product_name": "laptop",
+      "product_price": 50000,
+      "product_projector": "projector",
+      "product_bigImage": "Washingmachineback"
+    }
+  }
+]

@@ -82,3 +82,37 @@
   text-decoration: none;
   color: #000;
 }
+
+/* productList */
+.productListItem{
+  /* background-color: #fff; */
+  height: 130px;
+  width: 150px;
+  display: flex;
+  padding: 20px;
+
+}
+.product{
+  background-color: #a9a9a9;
+  display: flex;
+  gap: 20px;
+  width: 100%;
+  padding: 14px;
+
+}
+.productList{
+  background-color: #fff;
+  display: flex;
+  width: 25%;
+    /* flex-wrap: inherit; */
+  flex-wrap: wrap;
+}
+.productDetails{
+  font-weight: bold;
+  font-size: 12px;
+  text-align: center;
+}
+.productListDetails{
+  text-decoration: none;
+  color: #000;
+}

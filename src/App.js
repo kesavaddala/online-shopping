@@ -14,7 +14,6 @@ function App() {
           <Route path="/printer" element={<Printer />} />
         </Routes>
       </BrowserRouter>
-      <div>hi</div>
     </div>
   );
 }
